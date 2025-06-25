@@ -3,4 +3,4 @@ layout: post
 title: Contact
 ---
 
-You can contact me at
+You can contact me at siblecal@gmail.com
