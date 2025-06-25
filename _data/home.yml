@@ -36,22 +36,22 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Alien Bug Mission
+    url: https://toastie-sibley.itch.io/alien-bug-mission
+    desc: A first person shooter game made in Unity
+    #highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Spaceship Invvasion
+    url: https://toastie-sibley.itch.io/spaceship-invasion
+    desc: A simple 2D platformer game made in Unity
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: 2D Shooter
+    url: https://toastie-sibley.itch.io/2d-shooter
+    desc: A 2D space shooter game made in Unity. 
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Solar System
+    url: https://toastie-sibley.itch.io/solar-system
+    desc: A simple 3D solar system made in Unity
 
 footer_entries:
   #- title: abhinav's homepage
