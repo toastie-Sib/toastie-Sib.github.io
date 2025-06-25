@@ -13,6 +13,12 @@ project_entries:
     url: https://toastie-sibley.itch.io/celeste-pico-recreation
     desc: A recreation of the original Pico 8 version of Celeste made in Unity!
 
+  - title: Nighttail Chronicles
+    url: https://docs.google.com/presentation/d/1JJeuuaizReCTThidR8lj5X-yE83xpeWmgIKDd9F25C4/edit?slide=id.g34deb37be12_3_27#slide=id.g34deb37be12_3_27
+    desc: A group project to create a 2D "horror" type of game with puzzle and exploration elements. 
+    highlight: WIP
+    highlight: NEW
+
   - title: Pogo Dasher
     url: https://toastie-sibley.itch.io/pogo-dasher
     desc: 2D platformer with enemies to defeat. You can attack downwards to be sent up, or charge a dash!
@@ -42,7 +48,7 @@ project_entries:
 old_project_entries:
   - title: Alien Bug Mission
     url: https://toastie-sibley.itch.io/alien-bug-mission
-    desc: A first person shooter game made in Unity
+    desc: A 3D first person shooter game made in Unity
     #highlight: NEW
 
   - title: Spaceship Invasion
