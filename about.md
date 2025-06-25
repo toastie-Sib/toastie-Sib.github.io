@@ -1,8 +1,8 @@
 ---
 layout: post
-title: About
+title: Education
 ---
 
-This is an example page!
+I have been a student at MSU pursuing a degree for Game Design.
 
-Actually, it has the same layout of a post...
+My major at MSU has been Games and Interactive Media focusing on the Game Design area. I have also been working towards a minor in Computer Science. 
