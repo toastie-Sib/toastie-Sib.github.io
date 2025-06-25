@@ -9,31 +9,35 @@ navbar_entries:
   #  url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Pico 8 Celeste Recreation
+    url: https://toastie-sibley.itch.io/celeste-pico-recreation
+    desc: A recreation of the original Pico 8 version of Celeste made in Unity!
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Pogo Dasher
+    url: https://toastie-sibley.itch.io/pogo-dasher
+    desc: 2D platformer with enemies to defeat. You can attack downwards to be sent up, or charge a dash!
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Dungeon Delver
+    url: https://toastie-sibley.itch.io/dungeon-delver
+    desc: Unity game that is largely based on the original Zelda. Find a hookshot within the Dungeon!
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Mission Demolition
+    url: https://toastie-sibley.itch.io/mission-demolition
+    desc: 2D Unity game where you launch projectiles to destroy building formations to try to win! Similar to Angry Birds
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: Space Shootout
+    url: https://toastie-sibley.itch.io/shmup
+    desc: 2D space game similar to Galaga
+    #highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Prospector
+    url: https://toastie-sibley.itch.io/prospector
+    desc: Card game mde in Unity
+    #highlight: WIP
+
+  - title: Tetris
+    url: https://toastie-sibley.itch.io/tetris
+    desc: Tetris Recreation in Unity
 
 old_project_entries:
   - title: Alien Bug Mission
@@ -41,13 +45,13 @@ old_project_entries:
     desc: A first person shooter game made in Unity
     #highlight: NEW
 
-  - title: Spaceship Invvasion
+  - title: Spaceship Invasion
     url: https://toastie-sibley.itch.io/spaceship-invasion
     desc: A simple 2D platformer game made in Unity
 
   - title: 2D Shooter
     url: https://toastie-sibley.itch.io/2d-shooter
-    desc: A 2D space shooter game made in Unity. 
+    desc: A 2D space shooter game made in Unity.
 
   - title: Solar System
     url: https://toastie-sibley.itch.io/solar-system
