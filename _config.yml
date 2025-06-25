@@ -4,7 +4,7 @@ url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
   This is my portfolio of what I have worked on to show my skillset. 
 
-#permalink: /:slug
+permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 

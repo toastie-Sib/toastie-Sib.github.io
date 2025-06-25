@@ -2,8 +2,8 @@ navbar_entries:
   - title: Education
     url: about
 
-  #- title: blog
-  #  url: blog
+  - title: Contact
+    url: contact
 
   #- title: website
   #  url: https://www.abhinav.co
