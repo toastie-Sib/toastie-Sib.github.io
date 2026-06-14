@@ -117,7 +117,7 @@ old_project_entries:
 
   - title: Mission Demolition
     url: https://toastie-sibley.itch.io/mission-demolition
-    desc: 2D Unity game where you launch projectiles to destroy building formations to try to win! Similar to Angry Birds
+    desc: 2D game where you launch projectiles to destroy building formations similar to Angry Birds.
 
   - title: Solar System
     url: https://toastie-sibley.itch.io/solar-system
@@ -148,7 +148,55 @@ footer_entries:
 slides_entries:
   
   - title: Spin Prototype Design Pitch
-    url: https://docs.google.com/presentation/d/133SMqOg1TRTs_2EJaMCAPMGMWjDsuAY86wa1f2eT5ek/edit?slide=id.p#slide=id.p
-    desc: Pitch for the Spin game as seen above. Includes links to Design Doc and Github repo. 
-    #highlight: NEW
+    url: https://docs.google.com/presentation/d/133SMqOg1TRTs_2EJaMCAPMGMWjDsuAY86wa1f2eT5ek/edit?usp=sharing
+    desc: Pitch for the Spin game as seen above. Includes links to Design Doc and Github. 
+    highlight: NEW
 
+  - title: TRPG Prototype Work Doc
+    url: https://docs.google.com/presentation/d/1dZbMoCV0C_K23_Hovmxt_6_sU56tRzkxxSzbgLRD4Uw/edit?usp=sharing
+    desc: Doc for the code and breakdown of the TRPG game as seen above. Includes Gitlab link. 
+    highlight: NEW
+
+  - title: Dithering Demo Work Doc
+    url: https://docs.google.com/presentation/d/1lRqge6F6UgZQFjWNj2PaytDMhnS0wp0u7_nXBPy6VLM/edit?usp=sharing
+    desc: Doc for the code and breakdown of the Dithering demo as seen above. Includes Gitlab link. 
+    highlight: NEW
+
+  - title: Grappling Demo Work Doc
+    url: https://docs.google.com/presentation/d/1C7a5jpgujDVdctjSKIkhdzjcb6-L0j1WcKWDJHn7Im8/edit?usp=sharing
+    desc: Doc for the code and breakdown of the Grappling demo as seen above. Includes Gitlab link. 
+    highlight: NEW
+
+  - title: GOAP Demo Work Doc
+    url: https://docs.google.com/presentation/d/1hLT3-9P2kPmFickv6Ee4WMXuXBhMAwidga3LJp6eIDU/edit?usp=sharing
+    desc: Doc for the code and breakdown of the GOAP demo as seen above. Includes Gitlab link. 
+
+  - title: Metroid Custom Map Design Doc
+    url: https://docs.google.com/presentation/d/1UvKbSzaGX3Roj4RRlzNUBPmM2YlfP950Utv8tP7avjc/edit?usp=sharing
+    desc: Design doc for the level design of a classic Metroid map made within a level editor.
+    highlight: NEW
+
+  - title: I Wanna Maker Level Design Doc
+    url: https://docs.google.com/presentation/d/1U5WhLryPbykm_CnirL1BEXYdByCRnOLvAuQmCiYBdno/edit?usp=sharing
+    desc: Design doc for the creation of a custom I Wanna be the Guy level made within I Wanna Maker.
+    highlight: NEW
+
+  - title: Astro Engineer Game Pitch
+    url: https://docs.google.com/presentation/d/1Il-QXunK0Wuf9d34acjCjL6wu14-bMco52r3LXr7Bes/edit?usp=sharing
+    desc: Final pitch for the group project Astro Engineer about using code blocks to solve puzzles and progress through a level. 
+
+  - title: Nighttail Chronicals Game Pitch
+    url: https://docs.google.com/presentation/d/1e3ONvIRV18rLVOxblfl6s-WpkZv3p6C7tY84cBUxhww/edit?usp=sharing
+    desc: Initial pitch for the group project Nighttail Chronicals game as seen above. 
+
+  - title: Labrinth of Legends Tabletop Game Pitch
+    url: https://docs.google.com/presentation/d/11JiKfTLe2OXN1P48FsetBT4wZANiBB0JU2-KyBhdubE/edit?usp=sharing
+    desc: Group project for a tabletop game about exploring a labyrinth, fighting monsters, and collecting loot.
+
+  - title: Hollow Knight & Silksong Metroidvania Analysis
+    url: https://docs.google.com/presentation/d/1EzNkc_GBo5TT80Y_3ryTv-ZSrf764H20QATNBOtGhXE/edit?usp=sharing
+    desc: Game analysis of how the games Hollow Knight and Silksong innovated the metroidvania genre.
+
+  - title: Unreal Engine ALS Level Design Doc
+    url: https://docs.google.com/presentation/d/1TCdPdBaNxmBpwbUz3BR7DGIy_ojXvO4U6NC-kZv1qNQ/edit?usp=sharing
+    desc: Leven Design for an Advanced Locomotion System in Unreal Engine featuring bow and button mechanics. 
