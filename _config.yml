@@ -36,7 +36,7 @@ theme_config:
   home:
     title_projects: Portfolio
     title_misc_list: Gitlab Links
-    title_old_projects: Old Projects
+    title_old_projects: Older Projects
     title_slides: Slides
 
 soopr:
