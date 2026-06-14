@@ -126,13 +126,16 @@ footer_entries:
   #- title: twitter
   #  url: https://twitter.com/abhinav
 
+  - title: gitlab
+    url: https://gitlab.msu.edu/users/sibleyc2/projects
+
   - title: github
     url: https://github.com/toastie-Sib
 
   - title: itch.io
     url: https://toastie-sibley.itch.io/
 
-misc_entries:
+gitlab_entries:
   - title: this is an example vertical list
     url: false
 
