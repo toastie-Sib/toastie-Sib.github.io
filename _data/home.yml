@@ -66,29 +66,39 @@ project_entries:
     #highlight: WIP
 
 
-misc_entries:
-
-  - title: Alien Bug Mission
-    url: https://toastie-sibley.itch.io/alien-bug-mission
-    desc: A 3D first person shooter game made in Unity
-    #highlight: NEW
-
-  - title: Spaceship Invasion
-    url: https://toastie-sibley.itch.io/spaceship-invasion
-    desc: A simple 2D platformer game made in Unity
-
-  - title: 2D Shooter
-    url: https://toastie-sibley.itch.io/2d-shooter
-    desc: A 2D space shooter game made in Unity.
-
-  - title: Mission Demolition
-    url: https://toastie-sibley.itch.io/mission-demolition
-    desc: 2D Unity game where you launch projectiles to destroy building formations to try to win! Similar to Angry Birds
-
-  - title: Solar System
-    url: https://toastie-sibley.itch.io/solar-system
-    desc: A simple 3D solar system made in Unity
-
+#misc_entries:
+#
+#  - title: this is an example vertical list
+#    url: false
+#
+#  - title: you can show or hide using a boolean flag in _config.yml
+#    url: false
+#
+#  - title: and you can add data in _data/home.yml
+#    url: false
+#
+#  - title: Blog posts
+#    post_list: false
+#    url: false
+#
+#  - title: moonwalk on the Internet
+#    url: false
+#    entries:
+#      - title: on Github
+#        url: https://github.com/abhinavs/moonwalk
+#
+#      - title: originally built for abhinav's homepage
+#        url: https://www.abhinav.co
+#
+#      - title: this list is scalable and can be nested
+#        url: false
+#        entries:
+#          - title: this is nested inside a nested list
+#            url: false
+#
+#          - title: it is easy to use, see _data/home.yml to see how to configure it.
+#            url: false
+#
 
 old_project_entries:
 
@@ -135,36 +145,10 @@ footer_entries:
   - title: itch.io
     url: https://toastie-sibley.itch.io/
 
-gitlab_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: false
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
+slides_entries:
+  
+  - title: Spin Prototype Design Pitch
+    url: https://docs.google.com/presentation/d/133SMqOg1TRTs_2EJaMCAPMGMWjDsuAY86wa1f2eT5ek/edit?slide=id.p#slide=id.p
+    desc: Pitch for the Spin game as seen above. Includes links to Design Doc and Github repo. 
+    #highlight: NEW
 
