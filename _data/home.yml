@@ -65,6 +65,31 @@ project_entries:
     desc: Card game mde in Unity
     #highlight: WIP
 
+
+slides_entries:
+
+  - title: Alien Bug Mission
+    url: https://toastie-sibley.itch.io/alien-bug-mission
+    desc: A 3D first person shooter game made in Unity
+    #highlight: NEW
+
+  - title: Spaceship Invasion
+    url: https://toastie-sibley.itch.io/spaceship-invasion
+    desc: A simple 2D platformer game made in Unity
+
+  - title: 2D Shooter
+    url: https://toastie-sibley.itch.io/2d-shooter
+    desc: A 2D space shooter game made in Unity.
+
+  - title: Mission Demolition
+    url: https://toastie-sibley.itch.io/mission-demolition
+    desc: 2D Unity game where you launch projectiles to destroy building formations to try to win! Similar to Angry Birds
+
+  - title: Solar System
+    url: https://toastie-sibley.itch.io/solar-system
+    desc: A simple 3D solar system made in Unity
+
+
 old_project_entries:
 
   - title: Alien Bug Mission
