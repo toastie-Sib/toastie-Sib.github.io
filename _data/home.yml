@@ -9,14 +9,39 @@ navbar_entries:
   #  url: https://toastie-sib.github.io/
 
 project_entries:
+  - title: Spin Game Prototype
+    url: https://toastie-sibley.itch.io/spin-demo
+    desc: Physics based auto battling roguelike where each fighter scales growth and fights in a unique way. Build items to push how far you can go in a run!
+    highlight: NEW
+
+  - title: Tactical RPG Prototype
+    url: https://toastie-sibley.itch.io/trpg-demo
+    desc: Tactical RPG prototype with a variety of mechanics in its current state. Ready to be easily expanded on with more content and mechanics in the future!
+    highlight: NEW
+
+  - title: Dithering Demo
+    url: https://toastie-sibley.itch.io/dithering-demo
+    desc: Dithering shader demo. Move around and Control the Dithering Opacity as well as Quantization Levels! Choose between 20 different color palettes I've customized!
+    highlight: NEW
+
+  - title: Grapple Mechanic Demo
+    url: https://toastie-sibley.itch.io/grapple-mechanic-demo
+    desc: Grapple to surfaces and swing around them with two different grapples! Right click to grapple pull, and hold left click to grapple swing!
+    highlight: NEW
 
   - title: Dungeon Delver
     url: https://toastie-sibley.itch.io/dungeon-delver
-    desc: Unity game that is largely based on the original Zelda. Find a hookshot within the Dungeon!
+    desc: Unity game that is largely based on the original Zelda. Find the hookshot within the Dungeon!
+    highlight: NEW
 
   - title: Pico 8 Celeste Recreation
     url: https://toastie-sibley.itch.io/celeste-pico-recreation
     desc: A recreation of the original Pico 8 version of Celeste made in Unity!
+    highlight: NEW
+
+  - title: GOAP Demo
+    url: https://toastie-sibley.itch.io/goap-demo
+    desc: Goal-Oriented Action Planning demo in Unity. NPCs will evaluate their current environment, select a goal, and plan a sequence of actions to best accomplish it.
 
   - title: Nighttail Chronicles
     url: https://david-bandila.itch.io/nighttailchronicles
@@ -40,11 +65,11 @@ project_entries:
     desc: Card game mde in Unity
     #highlight: WIP
 
+old_project_entries:
   - title: Mission Demolition
     url: https://toastie-sibley.itch.io/mission-demolition
     desc: 2D Unity game where you launch projectiles to destroy building formations to try to win! Similar to Angry Birds
 
-old_project_entries:
   - title: Alien Bug Mission
     url: https://toastie-sibley.itch.io/alien-bug-mission
     desc: A 3D first person shooter game made in Unity
