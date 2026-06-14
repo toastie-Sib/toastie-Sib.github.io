@@ -43,6 +43,10 @@ project_entries:
     url: https://toastie-sibley.itch.io/goap-demo
     desc: Goal-Oriented Action Planning demo in Unity. NPCs will evaluate their current environment, select a goal, and plan a sequence of actions to best accomplish it.
 
+  - title: Spartan Swashbuckler Captain
+    url: https://gitlab.msu.edu/gameprof-public/spartan-swashbucklers
+    desc: Pirate Ship Combat AI made for a class project where you had to code logic that would steer a ship to attack ships while colling gold and avoiding being hunted.
+
   - title: Nighttail Chronicles
     url: https://david-bandila.itch.io/nighttailchronicles
     desc: A group project to create a 2D "horror" type of game with puzzle and exploration elements. 
@@ -60,10 +64,6 @@ project_entries:
     desc: 2D game similar to Galaga
     #highlight: WIP
 
-  - title: Prospector
-    url: https://toastie-sibley.itch.io/prospector
-    desc: Card game mde in Unity
-    #highlight: WIP
 
 
 #misc_entries:
@@ -114,6 +114,11 @@ old_project_entries:
   - title: 2D Shooter
     url: https://toastie-sibley.itch.io/2d-shooter
     desc: A 2D space shooter game made in Unity.
+
+  - title: Prospector
+    url: https://toastie-sibley.itch.io/prospector
+    desc: Card game made in Unity
+    #highlight: WIP
 
   - title: Mission Demolition
     url: https://toastie-sibley.itch.io/mission-demolition
