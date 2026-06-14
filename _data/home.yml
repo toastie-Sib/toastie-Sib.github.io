@@ -66,7 +66,7 @@ project_entries:
     #highlight: WIP
 
 
-slides_entries:
+misc_entries:
 
   - title: Alien Bug Mission
     url: https://toastie-sibley.itch.io/alien-bug-mission
@@ -114,6 +114,12 @@ old_project_entries:
     desc: A simple 3D solar system made in Unity
 
 footer_entries:
+  - title: Education
+    url: about
+
+  - title: Contact
+    url: contact
+
   #- title: abhinav's homepage
   #  url: https://www.abhinav.co
 
