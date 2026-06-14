@@ -57,7 +57,7 @@ project_entries:
 
   - title: Space Shootout
     url: https://toastie-sibley.itch.io/shmup
-    desc: 2D space game similar to Galaga
+    desc: 2D game similar to Galaga
     #highlight: WIP
 
   - title: Prospector
@@ -66,9 +66,6 @@ project_entries:
     #highlight: WIP
 
 old_project_entries:
-  - title: Mission Demolition
-    url: https://toastie-sibley.itch.io/mission-demolition
-    desc: 2D Unity game where you launch projectiles to destroy building formations to try to win! Similar to Angry Birds
 
   - title: Alien Bug Mission
     url: https://toastie-sibley.itch.io/alien-bug-mission
@@ -82,6 +79,10 @@ old_project_entries:
   - title: 2D Shooter
     url: https://toastie-sibley.itch.io/2d-shooter
     desc: A 2D space shooter game made in Unity.
+
+  - title: Mission Demolition
+    url: https://toastie-sibley.itch.io/mission-demolition
+    desc: 2D Unity game where you launch projectiles to destroy building formations to try to win! Similar to Angry Birds
 
   - title: Solar System
     url: https://toastie-sibley.itch.io/solar-system
