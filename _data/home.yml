@@ -5,6 +5,9 @@ navbar_entries:
   - title: Contact
     url: contact
 
+  - title: Resume
+    url: resume
+
   #- title: website
   #  url: https://toastie-sib.github.io/
 
@@ -134,6 +137,9 @@ footer_entries:
 
   - title: Contact
     url: contact
+
+  - title: Resume
+    url: resume
 
   #- title: abhinav's homepage
   #  url: https://www.abhinav.co
