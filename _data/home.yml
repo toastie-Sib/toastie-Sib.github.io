@@ -1,12 +1,12 @@
 navbar_entries:
+  - title: Resume
+    url: resume
+
   - title: Education
     url: about
 
   - title: Contact
     url: contact
-
-  - title: Resume
-    url: resume
 
   #- title: website
   #  url: https://toastie-sib.github.io/
@@ -132,14 +132,14 @@ old_project_entries:
     desc: A simple 3D solar system made in Unity
 
 footer_entries:
+  - title: Resume
+    url: resume
+
   - title: Education
     url: about
 
   - title: Contact
     url: contact
-
-  - title: Resume
-    url: resume
 
   #- title: abhinav's homepage
   #  url: https://www.abhinav.co

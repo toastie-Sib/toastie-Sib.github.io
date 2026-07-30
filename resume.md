@@ -3,4 +3,4 @@ layout: post
 title: Resume
 ---
 
-Resume Here!!
+![Alt text]({{site.baseurl}}/assets/images/Resume.jpg)
